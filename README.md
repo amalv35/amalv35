@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/wPwsT9YWDfQAAAAC/kermit-darkside.gif" width="100" alt="kermit"/>
+  <img src="https://i.pinimg.com/originals/f1/48/59/f14859e93544a04f067e4a6f186ad1e2.gif" width="100" alt="kermit"/>
 </p>
 
 <h1 align="center">

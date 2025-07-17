@@ -27,3 +27,15 @@
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 
 </p>
+
+## 📊 My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalv35&layout=compact&theme=dark)
+
+![AMALV35 GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalv35&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=amalv35&theme=dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amalv35&theme=github-dark)
+
+

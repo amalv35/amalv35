@@ -38,4 +38,9 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amalv35&theme=github-dark)
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/e8/38/3d/e8383d1209878047077d36bdb5fe829e.jpg" width="auto" height="auto" alt="kermit"/>
+</p>
+
+
 

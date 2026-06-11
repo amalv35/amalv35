@@ -4,7 +4,9 @@
 <h1 align="center">
   Hi👋, I'm Amalv 😄
 </h1>
-<p align="center">🌱 Intern @ nexeor</p>
+<h4> you can view my portfolio at <a href="https://amalv35.vercel.app/">amals portfolio</a>
+<p align="center">🌱 Software Engineer @ nexeor</p>
+
 
 ---
 
